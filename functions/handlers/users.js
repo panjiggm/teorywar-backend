@@ -4,7 +4,11 @@ const firebase = require("firebase");
 
 firebase.initializeApp(config);
 
-const { validateSignUpData, validateLoginData } = require("../util/validators");
+const {
+  validateSignUpData,
+  validateLoginData,
+  reduceUserDetails
+} = require("../util/validators");
 
 // User Sign Up
 exports.signup = (req, res) => {
@@ -62,6 +66,7 @@ exports.signup = (req, res) => {
     });
 };
 
+// User Login
 exports.login = (req, res) => {
   const user = {
     email: req.body.email,
@@ -87,6 +92,12 @@ exports.login = (req, res) => {
     });
 };
 
+// Add user Details
+exports.addUserDetails = (req, res) => {
+  let userDetails = reduceUserDetails(req.body);
+};
+
+// Upload Image
 exports.uploadImage = (req, res) => {
   const BusBoy = require("busboy");
   const path = require("path");
