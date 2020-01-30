@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "teorywar",
+  "private_key_id": "e884348429984fb5ff0eec1b698a70ac75913099",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqDXSmoNda+k7f\nmJ6Rpn5hBte4TtArqArcLMVCZdKrSe6UdPHlDOOpY4rvyPEyuW97YpcyNY0ocEWb\n9ksoOu0Io6T+ea7adldB2UPMFsSafWBlGLAyqGMAjCicmS8Oz8DCmMDI7pfTz+lk\n1SRtFEdI9NBa8wOUmmDmYPi2broeyYHBCFSvnT/pxXJ223tVfBHYAiNhFQnQGfAt\nAc89tPreTtYk3xJcLNQh57KHkJpVXE2DjSNDpWp9K74KGRUwQDdhrhnqcUOk4gkX\nHf44o03N6DkaYk+kc1zXUrMsmyr4bNDDHUntvP1F9454aMeRWzYLFmnBiHjj1T0a\nR6sgkP8RAgMBAAECggEAD1ZDYxneEs2dNoSzO1scI/KFV0P+2yV/VK8wW+n9NJE7\nK4pAQaCnGHX36D+UIp1JI14yBy3AKrq0rQQmJ6Q43RyQFsbVgOZJUHzStwB08KSv\nmOBVx3QGTMZicOSO01skx/ungmM0GsKgiiV3ZhhylWLJdnQ/M1EscVxAYAAAfTza\nCR3A2jl1tIUlbGRi9Tp2gWN1yh9zR2oRFsszwK16a7MyUmAwwAQRTXsDWEmA514V\nLLNz9geRQWg1JsRcRaXcEO4A/AOD2YyF8yu6Fa9/yhhdbvx6fQv7FLKDSV1f6C8U\nl/IvQYpYDIWrjd4MdqYic/UeZ8XDWfveT5/cwGo+6wKBgQD31i4KSeQDyg99Yrur\nJwBIbMIAlan/PpXILxUHkoWrn+4a8Wt+I0ZmS1FWO3HnQMbQNtQ4nT7O8haAPHlC\nkiiwAwJliRism18SDt/IWTqyhXOt4DbS6isO9YRDjfJU8rRu6J90zC21pxbiMZPx\nlEMh1hKhsRr4Zzrmt4/CL8Za7wKBgQDxwwuIAbyyTdvQU3jw13S9HjwpQeknjCkR\n+VFIFAbqyc0h/v4yej6qEomN9x+ctEDPMEAa4F712w2ydrXoBHdXRrPvofbs35Ut\nHiO6VXalgC61LCqf1k0vSnpbAGmDR1Ky7Ex2ZUWf+Og9MGlWWXSmITCWYoCR8CVc\n4jddrCZF/wKBgQDPV8vK5ciyduEAqJKTfRyaewrPjGbd2VFcWi+A10+npzSALAwf\nSonCWS7iMvd3XlU2qzhfaQa8AgNbI7zbOgZ6QvpFUi5ncdFW/USxjB00b7u480VK\nrYh6imMuVVoxQaA8zbdh8tQnDnRxpsK8MKr9aujJh68ltM+taFMIRgnv1wKBgQCc\nuXlfOOkPmcOW4JX1Y2cNNm1/vXedKJJzUXGszTbSu/GcSUaWiILZE91SR9KZbozZ\nA4l7ItrMfK37dFNmTobi8DWzcga19hcpwXEd2Utp7Jfa4P/c0DsHHjwFhFXiQblN\nvjuvQOWK1/wNtrWCwckJ7VgnFUIN2WUPOqLzuaayFwKBgFmlA9osYV5v0RZ2BcLl\nCsB4tHXQu5eeikpgwU3Usqem99YinJGRKZIEXy9GNz09ceW8zQ+xYhsYfQ+ZmG7I\nXBNd84wIrXpER01qEh2nD6j4h1ZIWkNx8OXc4fzkB38r/KwXrP1gNBT+zD6ck4J6\nWkpJ0KsuskQEhY8VP64JMRT2\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-u280u@teorywar.iam.gserviceaccount.com",
+  "client_id": "106625472628576464280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-u280u%40teorywar.iam.gserviceaccount.com"
+}
